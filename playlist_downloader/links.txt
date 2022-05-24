@@ -1,0 +1,3 @@
+[playlist_link],[folder_name]
+https://www.youtube.com/playlist?list=PL8Vjpfn39oyjXJqrK53xodonycm99ICQ7,SISTEM_2022
+https://www.youtube.com/playlist?list=PL9WklA98r54nrjR6HbV0S-7tAroNDxLqb,NUNTA_2022
