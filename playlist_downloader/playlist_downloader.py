@@ -16,7 +16,6 @@ def create_playlist_dict():
             playlist_dict[link] = folder_name
     return playlist_dict
 
-create_playlist_dict()
 playlist_dict = create_playlist_dict()
 for key in playlist_dict.keys():
     link = key
