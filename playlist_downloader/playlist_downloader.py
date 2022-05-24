@@ -10,10 +10,11 @@ def create_playlist_dict():
         for line in lines:
             if line.startswith('['):
                 pass
-            content = line.split(',')
-            link = content[0]
-            folder_name = content[1].replace('\n','')
-            playlist_dict[link] = folder_name
+            else:
+                content = line.split(',')
+                link = content[0]
+                folder_name = content[1].replace('\n','')
+                playlist_dict[link] = folder_name
     return playlist_dict
 
 playlist_dict = create_playlist_dict()
