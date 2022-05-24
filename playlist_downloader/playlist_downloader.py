@@ -3,8 +3,6 @@ from pytube import Playlist
 import os 
 import re
 
-
-
 def create_playlist_dict():
     playlist_dict = {}
     with open('links.txt', 'r') as file:
@@ -17,7 +15,6 @@ def create_playlist_dict():
             folder_name = content[1].replace('\n','')
             playlist_dict[link] = folder_name
     return playlist_dict
-
 
 create_playlist_dict()
 playlist_dict = create_playlist_dict()
