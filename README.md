@@ -1,6 +1,6 @@
 # MiniTools
 A set of MiniTools for different purposes
 
-# YouTube audio PLAYLIST DOWNLOADER
+# YouTube Music PLAYLIST DOWNLOADER
    [CODE](https://link-url-here.org)
    
